@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image20190605/actTab.PNG</file>
+        <file>image20190605/actTab_Locate.PNG</file>
+        <file>image20190605/actTab_SetHeader.PNG</file>
+        <file>image20190605/quit.PNG</file>
+        <file>image20190605/btnSetText.PNG</file>
+        <file>image20190605/cancel.PNG</file>
+        <file>image20190605/ok.PNG</file>
+    </qresource>
+</RCC>
